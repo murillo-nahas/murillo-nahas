@@ -9,6 +9,6 @@
 • 🧾 currently studying: **Javascript** and **C#**<br>
 • 🚀 skills: **Javascript** and **C#** <br>
 • 📫 reach me: LinkedIn, Discord: Murillo#5769 <br>
-• ⚙ working on: personal project.
+• ⚙ working on: personal project
 
 
