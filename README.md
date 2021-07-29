@@ -1,14 +1,15 @@
-## Murillo Nahás
+## Murillo Nahás 👋
 
-👋 18yo technology and development enthusiast.
+18yo technology and development enthusiast.<br>
+i'm interested for Javascript Frameworks.<br>
+<br>
+
+•  🧾 i'm currently learning: **Ionic** and **Angular**<br>
+•  🚀 skills: **Javascript**, **HTML/CSS**<br>
+•  ⚙  tools: **VSCode**, **Figma**, **GitHub**<br>
+•  📫 reach me: LinkedIn, Discord: Murillo#5769 <br>
+<br>
 
 
-#### 📃 | About me
-
-• 🎓 system analysis and development | ETEC <br>
-• 🧾 currently studying: **Angular**, **React**<br>
-• 🚀 skills: **Javascript** and **C#** <br>
-• 📫 reach me: LinkedIn, Discord: Murillo#5769 <br>
-• ⚙ working on: personal project
-
+[![Murillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillo-nahas&show_icons=true&theme=radical)](https://github.com/murillo-nahas/github-readme-stats)
 
