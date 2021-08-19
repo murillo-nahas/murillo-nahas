@@ -1,13 +1,13 @@
 ## Murillo Nahás 👋
 
 18yo technology and development enthusiast.<br>
-i'm interested for Web Development.<br>
+I'm interested for Web Development.<br>
 <br>
 
-•  🚀 currently mastering: **Javascript**, **C#** and **HTML/CSS**<br>
-•  🧾 currently learning: **Ionic** and **Angular**<br>
-•  ⚙ tools: **VSCode**, **Figma**, **GitHub**<br>
-•  📫 reach me: LinkedIn, Discord: Murillo#5769 <br>
+•  ⚛️ Currently mastering: **Javascript**, **C#** and **HTML/CSS**<br>
+•  🌱 Currently learning: **Ionic**, **Angular** and **Blockchain** >for fun<<br>
+•  ⚙ Tools: **VSCode**, **Figma**, **GitHub**<br>
+•  📫 Reach me: LinkedIn, Discord: Murillo#5769 <br>
 <br>
 
 
