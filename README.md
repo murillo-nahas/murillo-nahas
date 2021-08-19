@@ -11,5 +11,7 @@ I'm interested for Web Development.<br>
 <br>
 
 
-[![Murillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillo-nahas&show_icons=true&theme=radical)](https://github.com/murillo-nahas/github-readme-stats)
+[![Murillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillo-nahas&show_icons=true&theme=radical)](https://github.com/murillo-nahas/github-readme-stats)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murillo-nahas&layout=compact&theme=radical)](https://github.com/murillo-nahas/github-readme-stats)
 
