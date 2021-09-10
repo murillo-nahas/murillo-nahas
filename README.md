@@ -8,7 +8,7 @@ Currently interested in Javascript Stack and always trying to improve my knowled
 
 > ⚡ My skills are **Javascript**, **C#**, **HTML**, and **CSS/Sass**<br>
 
-> 📚 I'm learning more about **Javascript** and **Angular/React**
+> 📚 I'm learning more about **Javascript** and **ReactJS/React Native**
 
 >  ⚙ Using tools such as **VSCode**, **Figma**, **GitHub**<br>
 
