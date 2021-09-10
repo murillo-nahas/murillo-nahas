@@ -1,16 +1,19 @@
 ## Murillo Nahás 👋
 
 
-18yo enthusiast of the best web development technologies.<br>
-Actually interested in Javascript Stack. <br>
-Self-taught developer and always trying to improve my knowledge.<br>
+18yo and enthusiast of the best web development technologies.<br>
+Currently interested in Javascript Stack and always trying to improve my knowledgement.<br>
 
 <br>
 
-•  ⚡  Currently mastering: **Javascript**, **C#** and **HTML/CSS**<br>
-•  📚 Currently learning: **Ionic**, **Angular** and **Blockchain** >for fun<<br>
-•  ⚙ Tools: **VSCode**, **Figma**, **GitHub**<br>
-•  📫 Reach me on: LinkedIn <br>
+> ⚡ My skills are **Javascript**, **C#**, **HTML**, and **CSS/Sass**<br>
+
+> 📚 I'm learning more about **Javascript** and **Angular/React**
+
+>  ⚙ Using tools such as **VSCode**, **Figma**, **GitHub**<br>
+
+> You can reach me on [LinkedIn](https://www.linkedin.com/in/murillo-nahas/)
+
 
 <br>
 
