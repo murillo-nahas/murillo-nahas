@@ -12,7 +12,7 @@ Currently interested in Javascript Stack and always trying to improve my knowled
 
 >  ⚙ Using tools such as **VSCode**, **Figma**, **GitHub**<br>
 
-> You can reach me on [LinkedIn](https://www.linkedin.com/in/murillo-nahas/)
+> 📩 You can reach me on [LinkedIn](https://www.linkedin.com/in/murillo-nahas/)
 
 
 <br>
