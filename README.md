@@ -1,21 +1,21 @@
-## Murillo Nahás 👋
+### Hi everyone, I'm Murillo 👋
 
-
-18yo and enthusiast of the best web development technologies.<br>
-Currently interested in Javascript Stack and always trying to improve my knowledgement.<br>
+I'm 18yo and enthusiast of the best web development technologies.<br>
+Currently interested in Javascript Stack. <br>
 
 <br>
 
-> ⚡ My skills are **Javascript**, **C#**, **HTML**, and **CSS/Sass**<br>
+> ⚛️ Skills: **Javascript**, **C#**<br>
 
-> 📚 I'm learning more about **Javascript** and **ReactJS/React Native**
+> 📚 Currently learning: **Javascript** and **ReactJS & React Native**<br>
 
->  ⚙ Using tools such as **VSCode**, **Figma**, **GitHub**<br>
+> ⚙ Tools: **VSCode**, **Figma**, **GitHub**<br>
 
 > 📩 You can reach me on [LinkedIn](https://www.linkedin.com/in/murillo-nahas/)
 
 
 <br>
 
-[![Murillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillo-nahas&show_icons=true&theme=radical)](https://github.com/murillo-nahas/github-readme-stats)
+![Murillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillo-nahas&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murillo-nahas&theme=github_dark&hide_border=true&layout=compact)](https://github.com/murillo-nahas/github-readme-stats)
