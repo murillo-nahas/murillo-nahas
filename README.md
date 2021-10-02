@@ -7,14 +7,9 @@ Always free to learn new things and share my knowledgement.
 
 <br>
 
-- ⚛️ Skills: **Javascript**, **C#**
-
-- 📚 Currently learning: **React** and **NodeJS**<br>
-
-- ⚙ Tools: **VSCode**, **Figma**, **GitHub**<br>
-
+- ⚛️ Skills: **Javascript**
+- 📚 Currently learning: **ReactJS** and **NodeJS**<br>
 - 📩 Reach me on [LinkedIn](https://www.linkedin.com/in/murillo-nahas/)
-
 - 💖 Interested on Blockchain, Web 3.0 and Frontend
 
 
