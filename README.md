@@ -5,7 +5,7 @@ Focused on Javascript Stack, using technologies such as React and Angular. <br>
 
 I am able to programming using: <br>
 • **Javascript**, **Typescript**, **HTML**, **CSS**, **SCSS** <br>
-• **React**, **Angular**, **NodeJS**, **Ionic**
+• **React**, **Angular**, **NodeJS**, **Ionic**, **C#**
 
 Also, I'm a Blockchain enthusiast and Crypto/NFT investor. <br>
 Studying Cardano/Ethereum blockchain and Web3 to build awesome Dapps.
