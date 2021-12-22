@@ -1,6 +1,6 @@
 ### Hi there, I'm Murillo Nahás! 👋
 18yo and enthusiast of the best web development technologies. <br>
-Currently interested in Frontend Engineering and always trying to improve my knowledgement. <br>
+Currently interested in Fullstack Development and always trying to improve my knowledgement. <br>
 Focused on Javascript Stack, using technologies such as React and Angular. <br>
 
 I am able to programming using: <br>
