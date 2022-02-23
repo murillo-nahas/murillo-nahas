@@ -1,23 +1,17 @@
-### Hi there, I'm Murillo Nahás! 👋
-18yo enthusiast of the best web development technologies. <br>
-Currently interested in Fullstack Development and always trying to improve my knowledgement. <br>
-Focused on Javascript Stack, using technologies such as React and Angular. <br>
+### Hi there, I'm Murillo 👋
 
+I'm 18yo and enthusiast of the best web development technologies. <br>
+Lately focused on Javascript Stack and interested in Blockchain and Web3. <br>
+Solid knowledge in: C#, Angular, Ionic, React, Typescript and UI/UX Design.
 
-```javascript
-const nahas = {
-  name: "Murillo Nahás",
-  coding: [Javascript, Typescript, C#],
-  moreCoding: [Angular, React, Ionic, Node],
-  tools: [Git, GitHub, Figma],
-  interested: [Gym, Blockchain, FP, Metaverse]
-}
-```
+<br>
 
+Take a look on my personal website: [https://nahas.vercel.app/](https://nahas.vercel.app/)<br>
 
-Also, I'm a Blockchain enthusiast and Crypto/NFT investor. <br>
-Sometimes I enjoy studying Cardano/Ethereum blockchain and Web3.
+### Contact me
 
+- [Linkedin](https://www.linkedin.com/in/murillo-nahas/) 
+- [Twitter](https://twitter.com/murillonahvs)<br>
 
 ![Murillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillo-nahas&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
 
