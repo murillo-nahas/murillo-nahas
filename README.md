@@ -1,11 +1,10 @@
 ### Hi there, I'm Murillo 👋
 
-I'm 18yo and enthusiast of the best web development technologies. <br>
-Lately focused on Javascript Stack and interested in Blockchain and Web3. <br>
-Solid knowledge in: C#, Angular, Ionic, React, Typescript and UI/UX Design.
+Frontend Software Engineer with over 1 year of experience. <br>
+Focused on Javascript Stack with main knowledgement in Angular with Typescript. <br>
+Solid knowledgement in: C#, React, Angular, Ionic, Javascript, Typescript and UI/UX Design. <br>
 
-<br>
-
+Interested in blockchain, web3 and functional programming. <br>
 Take a look on my personal website: [https://nahas.vercel.app/](https://nahas.vercel.app/)<br>
 
 ### Contact me
