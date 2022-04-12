@@ -3,7 +3,7 @@
 
 Fullstack Software Engineer focused on Javascript Stack.
 
-> ⚛️ Position: Working as a Fullstack Engineer with Angular, Typescript and C#. <br>
+> ⚛️ Position: Working as a Fullstack Engineer with Angular, Typescript, C# and SQL. <br>
 
 > 🌱 Knowledgement: C#, Angular, Ionic, Javascript, Typescript, SQL and UI/UX. <br>
 
