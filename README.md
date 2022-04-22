@@ -7,7 +7,7 @@ Fullstack Software Engineer focused on Javascript Stack.
 
 > 🌱 Knowledgement: C#, Angular, Ionic, Javascript, Typescript, SQL and UI/UX. <br>
 
-> ⚡ Interested: OOP, Functional Programming and Haskell.
+> ⚡ Interested: Functional Programming, Haskell and Flutter.
 
 > 📫 Contact: [Linkedin](https://www.linkedin.com/in/murillo-nahas/) | [Twitter](https://twitter.com/murillonahvs)<br>
 
