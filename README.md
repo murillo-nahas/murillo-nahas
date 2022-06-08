@@ -3,11 +3,11 @@
 
 Fullstack Software Engineer focused on Javascript Stack.
 
-> ⚛️ Position: Working as a Fullstack Engineer with Angular, Typescript, C# and SQL. <br>
+> ⚛️ Working as a Fullstack Engineer with Angular/Ionic, Typescript, C# and SQL. <br>
 
-> 🌱 Knowledgement: C#, Javascript/Typescript, Angular, Ionic, React, Node, SQL. <br>
+> 🌱 Knowledgement in Angular, Ionic, Javascript/Typescript, and SQL. <br>
 
-> ⚡ Interested: Functional Programming, Haskell and Flutter.
+> ⚡ Studying more about React/Node, interested in Flutter/React Native and functional programming.
 
 > 📫 Contact: [Linkedin](https://www.linkedin.com/in/murillo-nahas/) | [Twitter](https://twitter.com/murillonahvs)<br>
 
