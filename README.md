@@ -3,7 +3,7 @@
 
 Fullstack Software Engineer focused on Javascript Stack.
 
-> ⚛️ Working as a Frontend Engineer with Angular/Ionic framework and Node.js. <br>
+> ⚛️ Working as a Fullstack Engineer with Angular/Ionic framework and Node.js. <br>
 
 > 🌱 I have knowledge in Angular/Ionic, Javascript/Typescript, SQL, React and Node. <br>
 
