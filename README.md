@@ -5,7 +5,7 @@ A Fullstack Software Engineer from Brazil, currently working as a Fullstack Soft
 Always trying to improve my skills, focusing to get a deep knowledgement on web technologies, sometimes contributing to open-source software and learning in public with other people, sharing content through blog posts, articles, projects. <br>
 
 
-I have some professional experience with **JavaScript/TypeScript**, **Node.js** with **Express**, **Angular/Ionic**, tests with **Jest/Jasmine**, **SQL** and so on.
+I have some professional experience with **JavaScript/TypeScript**, **Node.js** with **Express**, **Angular/Ionic**, tests with **Jest/Jasmine**, databases with **SQL** and so on. <br>
 I'm interested in learning more about of the following techs: **React**, **React Native**, **Next.js**, **Electron**, **Prisma**, **Nest.js**, **MongoDB**, etc. 
 
 → You can reach me at:
