@@ -7,4 +7,4 @@
 I'm always trying to improve my skills, focusing to get a deep knowledgement on web technologies, sometimes contributing to open-source software and learning in public with other people, sharing content through blog posts, articles, projects.
 
 
-![Murillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillo-nahas&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+![Murillo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=murillo-nahas&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
