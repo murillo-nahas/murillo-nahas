@@ -2,8 +2,6 @@
 
 Software Engineer at [Bradesco Seguros](https://www.bradescoseguros.com.br/clientes). Based in SP, Brazil.
 
-Focused on JavaScript development, currently mastering MERN stack.
-
 Twitter: [@murillonahvs](https://twitter.com/murillonahvs) <br>
 LinkedIn: [@murillo-nahas](https://www.linkedin.com/in/murillo-nahas/)
 
