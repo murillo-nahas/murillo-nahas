@@ -1,8 +1,9 @@
-<h2> Hi, I'm Murillo Nahás! 🤙 </h2>
+<h2> Hi there, I'm Murillo 👋 </h2>
 
-Software Engineer at [Bradesco Seguros](https://www.bradescoseguros.com.br/clientes). Based in SP, Brazil.
+I'm a Fullstack Software Engineer based in SP, Brazil.
 
-Twitter: [@murillonahvs](https://twitter.com/murillonahvs) <br>
-LinkedIn: [@murillo-nahas](https://www.linkedin.com/in/murillo-nahas/)
+[@twitter](https://twitter.com/murillonahvs) ~ see my tweets<br>
+[@linkedin](https://www.linkedin.com/in/murillo-nahas/) ~ reach me at linkedin <br>
+[@medium](https://medium.com/@murillonahas2003) ~ my articles on medium
 
 Reach me at: murillonahas2003@gmail.com
