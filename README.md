@@ -1,9 +1,15 @@
-<h2> Hi there, I'm Murillo 👋 </h2>
+## Hi there, I'm Murillo 👋
 
-I'm a Fullstack Software Engineer based in SP, Brazil.
+I'm a Software Engineer with 2 years of professional experience, focused on delivering great products, maintaining scalability, and high-quality code.
+My tech lineup ensures lightning-fast idea execution, mainly with: JavaScript, TypeScript, Node, React, Next, Angular, and Golang, enabling rapid innovation and top-notch results.
 
-[@twitter](https://twitter.com/murillonahvs) ~ see my tweets<br>
-[@linkedin](https://www.linkedin.com/in/murillo-nahas/) ~ reach me at linkedin <br>
-[@medium](https://medium.com/@murillonahas2003) ~ my articles on medium
+[@linkedin](https://www.linkedin.com/in/murillo-nahas/) ~ Reach me at linkedin <br>
+[@devto](https://dev.to/murillonahvs) ~ Reach me at dev.to
+<br/>
 
-Reach me at: murillonahas2003@gmail.com
+### Current interests
+```sh
+🌱 Web development in general
+📚 Reading books
+🚴‍♀️ Sports
+```
