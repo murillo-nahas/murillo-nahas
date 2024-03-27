@@ -1,24 +1,7 @@
-## Hi there, I'm Murillo 👋
+## Hi, I'm Murillo! 😄
 
-Software Engineer focused on delivering great products, maintaining scalability, and high-quality code. 
-I have built several products for some different areas: education, franchising, finances, and logistics.
+Fullstack Software Engineer with +2 years of experience. I am specializing in web, cross-platform mobile devoplment and backend infrastructure, with a diverse range of practical engineering experience across startups, enterprise, and consulting environments.
 
-[@linkedin](https://www.linkedin.com/in/murillo-nahas/) ~ Reach me at linkedin <br>
-[@devto](https://dev.to/murillonahvs) ~ Reach me at dev.to
-<br/>
-
-I use to work with 👇
-> 🏎️ Languages: JavaScript/TypeScript <br/>
-
-> 💾 Backend: Nest.js, Fastify, Express, PostgreSQL, Prisma <br/>
-
-> 🦚 Frontend: Next.js, React.js, React Native + Expo, Angular, Ionic <br/>
-
-> 🥂 APIs: REST, GraphQL <br/>
-
-### Current interests
-```sh
-🌱 Web development in general
-📚 Books
-🚴‍♀️ Sports
-```
+🏎️ Languages: TypeScript, JavaScript, SQL <br/>
+💾 Backend: Nest.js, Express.js, Fastify, PostgreSQL, Prisma <br/>
+🦚 Frontend: Next.js, React, React Native, Angular
