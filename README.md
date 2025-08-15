@@ -6,7 +6,6 @@
 - 🔭 I'm currently working as a fullstack engineer at [Merch](https://www.merch.co/)
 - 🧠 Working with Angular, Tailwind, NestJS, Node.js, Prisma, MongoDB, AWS
 - 📫 How to reach me **murillonahas2003@gmail.com**
-- Find me on [X](https://x.com/murillonahvs)
 - Find me on [Linkedin](https://www.linkedin.com/in/murillo-nahas/)
 
 ---
